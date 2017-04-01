@@ -2,7 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 _config.yml
-.travis.yml
-script/
-Gemfile
-Gemfile.lock
+CNAME
